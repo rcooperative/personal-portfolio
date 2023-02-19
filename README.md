@@ -1,3 +1,30 @@
+# About
+---
+This is my personal portfolio. The plan is to grow and improve it over time. As with anything
+
+Likewise, this README will update over time.
+
+All this is here to do right now, is give me a place to start. 
+
+I need to first create my landing page. I'll need a SVG for that.
+
+I need to do some personal branding here, that's important.
+
+So, I want a cartoonish like recreation, whatever I can come up with. 
+
+I think it's important to put a name to a face. But that can't be my real logo. 
+
+That shows that I'm a little too full of myself. I'll need a JB as well. JJB?
+
+Then, I'll need a nice UI for displaying projects, some socials. 
+
+I'll start blogging probably as well. That's gonna be interesting.
+
+Then once I have that, I really need to get my socials up and running. 
+
+Sounds like a plan, let me know what you think github
+
+---
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
